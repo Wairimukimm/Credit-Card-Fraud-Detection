@@ -1,28 +1,75 @@
-# Credit-Card-Fraud-Detection
-PROBLEM STATEMENT
+BANK  CUSTOMER CHURN
 
-PROJECT OVERVIEW
-
-BUSINESS UNDERSTANDING
-
-COMPONENTS
+This project consist of supervised machine learning. It makes use of classification algorithms to predict the likelihood of a customer to churn. 
 
 
-Components
-Jupyter Notebook The Jupyter Notebook is our key deliverable and contains details of our approach and methodology, data cleaning, exploratory data analysis and model building and validation.
-I recommend using nbviewer to view the Jupyter Notebook.
 
-Presentation The presentation gives a high-level overview of our approach, findings and recommendations for non-technical stakeholders. It is aimed to be between 5 and 10 minutes long.
 
-Data
+## Problem Statement
+To address the challenges with addressing churn reactively, I developed a model that can predict the likelihood of user churn in the near future and empowered the sales team with insights from this model to prevent at risk accounts from churning.
 
-The dataset can be found in the file "kc_house_data.csv" in the Data folder, in this repository. It was originally provided in the following repository
+## Business Understanding
+## Components
+## Installation
 
-Technologies/ Packages
-Python version: 3.6.9
-Matplotlib version: 3.1.3
-Seaborn version: 0.9.0
-Pandas version: 0.25.1
-Numpy version: 1.16.5
-Statsmodels version: 0.10.1
-Scikit-learn version: 0.21.2
+pip install 
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+
+`ANOTHER_API_KEY`
+
+
+## FAQ
+
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
+## Demo
+
+Insert gif or link to demo
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## Optimizations
+
+What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+
+
+
